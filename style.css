@@ -22,7 +22,8 @@ p {
 }
 
 .list {
-    background-color: antiquewhite;
+    background-color: rgb(218, 228, 255);
+    color: rgb(0, 19, 30);
     border: 1px solid rgba(35, 35, 35, 0.282);
     padding: 10 px;
 }
@@ -36,4 +37,10 @@ p {
     font-size: large;
     font-weight: 700;
     font-style: initial;
+}
+
+.footer {
+    color: rgb(0, 0, 84);
+    font-size: larger;
+    font-weight: 500;
 }
